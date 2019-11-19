@@ -1,0 +1,3 @@
+id,name,type,customer_id,number,balance,date_of_creation,status
+1,Jhon PD H,Personal Account,1,NL7123838912798,900,2019-11-08,ACTIVE
+2,Jhon PD H,Direct Quarterly Savings,1,NL7123838912799,5012,2019-11-08,ACTIVE
